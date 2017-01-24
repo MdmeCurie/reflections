@@ -1,27 +1,45 @@
 What happens when you initialize a repository? Why do you need to do
 it?
-GIT creates a hidden file with the metadate for organizing and
+
+-GIT creates a hidden file with the metadate for organizing and
 versioning the files in the directory.  Initializes the directory as a
 git repository
 
 How is the staging area different from the working directory and the
-repository?
-What value do you think it offers?
+repository? What value do you think it offers?
+
+-The staging area is a temporary hold area allowing you to determine
+the organization or changes in files before committing them to the
+repository
 
 How can you use the staging area to make sure you have one commit per
-logical
-change?
+logical change?
+
+-You can check the changes before you commit them to ensure the
+change(s) being made. 
 
 What are some situations when branches would be helpful in keeping
-your history
-organized? How would branches help?
+your history organized? How would branches help?
+
+-When you are adding new features to the code so that you can test out
+ the code with the new experimental features.  
+-Any experimental additions that might affect a production or running
+ version of the code -major change that is not linear bug fix or
+ improvement to the code unles the improvement has a different
+ implementation strategy
 
 How do the diagrams help you visualize the branch structure?
 
+-The diagrams help place the commits in order and show their
+ relationship to other branches.  It helps to understand which are the
+ latest commits and which versions are most related
+
 What is the result of merging two branches together? Why do we
-represent it in
-the diagram the way we do?
+represent it in the diagram the way we do?
+
+-
 
 What are the pros and cons of Git’s automatic merging vs. always doing
-merges
-manually?
+merges manually?
+
+-
