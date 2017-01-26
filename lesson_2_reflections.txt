@@ -46,4 +46,7 @@ represent it in the diagram the way we do?
 What are the pros and cons of Git’s automatic merging vs. always doing
 merges manually?
 
--
+-The automated version helps significantly with small changes that
+ hopefully don't impact other areas.  This limits the amount of time
+ editing needing to merge two documents. 
+-much less typing to add in new lines
