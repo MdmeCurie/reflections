@@ -46,4 +46,6 @@ have multiple files to track and organize
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+By making changes in a branch there is time to review and check
+changes so that you don't break master without a review first. Pull
+requests give opportunity for a second review of the changes.  
