@@ -13,7 +13,20 @@ pull/push would overwrite the file
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork creates a clone repository on GitHub, which can show the source or link to the
+original source.  Fork is only for GitHub. Fork allows you to alter a
+repository without changing the orginal, but still giving credit-link
+to the original
+
+Clone creates a copy of a repository either locally or between local
+and remote.  This allows you to work on a copy of your own
+repositories either because you want to do something different or in
+order to work locally/remotely.
+
+Branch is a part of the original repository, step modification in
+place.  Branch works on the current repository where-ever you have it
+located 
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
