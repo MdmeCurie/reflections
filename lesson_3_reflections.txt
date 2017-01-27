@@ -37,7 +37,11 @@ you pulled the remote down locally
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Originally I collaborated by sending attachments of files back and
+forth.  This gets confusing very quickly as you try to do version
+control by renaming files and keeping them in order.  It is not easy
+to compare the "diff" if you have to scan the entire file and then you
+have multiple files to track and organize
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
