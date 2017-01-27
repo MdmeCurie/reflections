@@ -31,7 +31,8 @@ located
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It helps to know if there have been any changes made on origin since
+you pulled the remote down locally
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
